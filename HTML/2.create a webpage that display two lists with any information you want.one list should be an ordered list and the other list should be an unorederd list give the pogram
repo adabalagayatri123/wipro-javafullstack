@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ordered and Unordered Lists</title>
+</head>
+<body>
+    <h1>My Favorite Fruits</h1>
+    
+    <!-- Unordered List -->
+    <h2>Unordered List of Fruits</h2>
+    <ul>
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Orange</li>
+        <li>Strawberry</li>
+        <li>Mango</li>
+    </ul>
+    
+    <!-- Ordered List -->
+    <h2>Top 3 Favorite Movies</h2>
+    <ol>
+        <li>Inception</li>
+        <li>The Matrix</li>
+        <li>The Shawshank Redemption</li>
+    </ol>
+    
+</body>
+</html>
