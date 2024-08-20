@@ -6,12 +6,13 @@
     <title>Dynamic Heading Sizes</title>
 </head>
 <body>
-    <h1>C</h1>
-    <h2>h</h2>
-    <h3>a</h3>
-    <h4>t</h4>
-    <h5>G</h5>
-    <h6>P</h6>
-    <p>T</p> <!-- Using a paragraph for the last letter since <h6> is the smallest heading size -->
+    <h1>G</h1>
+    <h2>A</h2>
+    <h3>Y</h3>
+    <h4>A</h4>
+    <h5>T</h5>
+    <h6>R</h6>
+    <h1>I</h1>
+    <p></p> <!-- Using a paragraph for the last letter since <h6> is the smallest heading size -->
 </body>
 </html>
