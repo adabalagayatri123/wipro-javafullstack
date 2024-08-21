@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scroll Page</title>
+    <style>
+        body {
+            height: 1500px; /* Just to ensure there's enough space to scroll */
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            margin: 0;
+            padding: 0;
+        }
+        .link-container {
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="link-container" id="top">
+        <a href="#bottom">Go to Bottom</a>
+    </div>
+
+    <div class="link-container" id="bottom">
+        <a href="#top">Go to Top</a>
+    </div>
+</body>
+</html>
